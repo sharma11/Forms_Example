@@ -1,2 +1,2 @@
 # Forms_Example
-SignIn-Signup-Responsive-form
+This is sign-in & sign-up dynamic form (responsive) 
